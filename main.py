@@ -22,7 +22,7 @@ def load_plugins(plugin_name):
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
     sys.modules["OXYBOT.modules." + plugin_name] = load
-    print("𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠🫧 𝗛𝗔𝗦 𝗜𝗠𝗣𝗢𝗥𝗧𝗘𝗗 " + plugin_name)
+    print("𐏓 ꯭ ⃪ͥ͢ ᷟ𝐓𝐔𝐒𝐇𝐀𝐑 ̶꯭𝅥ͦ𝆬😈𝗦𝗣𝗔𝗠😜𝗫 𝗛𝗔𝗦 𝗜𝗠𝗣𝗢𝗥𝗧𝗘𝗗 " + plugin_name)
 
 
 files = glob.glob("OXYBOT/modules/*.py")
@@ -32,7 +32,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("\ 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 🫧 𝗕𝗢𝗧 𝗗𝗘𝗣𝗟𝗢𝗬𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬⚡\nMy Master ---> 🦋⃟ ᴠͥɪͣᴘͫ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋͜͡•─⃛͢ @Harami005")
+print("\ 𐏓 ꯭ ⃪ͥ͢ ᷟ𝐓𝐔𝐒𝐇𝐀𝐑 ̶꯭𝅥ͦ𝆬😈𝗦𝗣𝗔𝗠😜𝗫 𝗕𝗢𝗧 𝗗𝗘𝗣𝗟𝗢𝗬𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬⚡\nMy Master ---> 🦋⃟ ᴠͥɪͣᴘͫ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋͜͡•─⃛͢ @Harami005")
 
 
 async def main():
