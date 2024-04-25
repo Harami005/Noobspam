@@ -1,14 +1,13 @@
-<h1 align="center"><b>[✨🥀] 『 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧』 [✨🥀]</b></h1>
+<h1 align="center"><b>[✨🥀] 𐏓 ꯭ ⃪ͥ͢ ᷟ𝐓𝐔𝐒𝐇𝐀𝐑 ̶꯭𝅥ͦ𝆬😈𝗦𝗣𝗔𝗠😜𝗫 [✨🥀]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
 [<img src="https://telegra.ph/file/88c720ccc04d337125b2c.jpg"/>]
 
-> ⭐️ Thanks to everyone for using this op 『 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧』. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op 𐏓 ꯭ ⃪ͥ͢ ᷟ𝐓𝐔𝐒𝐇𝐀𝐑 ̶꯭𝅥ͦ𝆬😈𝗦𝗣𝗔𝗠😜𝗫 . That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
-
 
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
