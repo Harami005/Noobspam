@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-[<img src="https://telegra.ph/file/88c720ccc04d337125b2c.jpg"/>]
+[<img src="https://telegra.ph//file/c1ff9cf6fc7afc7354fe0.jpg"/>]
 
 > ⭐️ Thanks to everyone for using this op 𐏓 ꯭ ˹ Nᴏᴏʙ sᴘᴀᴍ ʙᴏᴛ ˼ . That is the greatest pleasure we have !
 
