@@ -21,10 +21,10 @@ from datetime import datetime
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        jarvis = await e.reply(f" 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧")
+        jarvis = await e.reply(f" ˹ Nᴏᴏʙ sᴘᴀᴍ ʙᴏᴛ ˼")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await jarvis.edit(f" 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧\n» `{mp} ᴍꜱ`")
+        await jarvis.edit(f" ˹ Nᴏᴏʙ sᴘᴀᴍ ʙᴏᴛ ˼\n» `{mp} ᴍꜱ`")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
@@ -39,7 +39,7 @@ async def ping(e):
 @X10.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        await e.reply(f"` 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗜𝗡𝗚.`")
+        await e.reply(f"` ˹ Nᴏᴏʙ sᴘᴀᴍ ʙᴏᴛ ˼ 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗜𝗡𝗚.`")
         try:
             await X1.disconnect()
         except Exception:
@@ -99,7 +99,7 @@ async def addsudo(event):
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
-        ok = await event.reply(f"»𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧 𝗡𝗘𝗪 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗔𝗗𝗗𝗘𝗗__")
+        ok = await event.reply(f"»˹ Nᴏᴏʙ sᴘᴀᴍ ʙᴏᴛ ˼ 𝗡𝗘𝗪 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗔𝗗𝗗𝗘𝗗__")
         target = ""
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
@@ -117,7 +117,7 @@ async def addsudo(event):
             return
 
         if str(target) in sudousers:
-            await ok.edit(f"𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥. !!")
+            await ok.edit(f"˹ Nᴏᴏʙ sᴘᴀᴍ ʙᴏᴛ ˼ 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥. !!")
         else:
             if len(sudousers) > 0:
                 newsudo = f"{sudousers} {target}"
